@@ -1,8 +1,8 @@
 package i18n
 
 import (
-	"github.com/qor/admin"
-	"github.com/qor/qor/utils"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/qor/utils"
 )
 
 type i18nController struct {

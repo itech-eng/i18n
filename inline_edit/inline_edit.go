@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"html/template"
 
-	"github.com/qor/admin"
-	"github.com/qor/i18n"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/i18n"
 )
 
 func init() {
-	admin.RegisterViewPath("github.com/qor/i18n/inline_edit/views")
+	admin.RegisterViewPath("github.com/itech-eng/i18n/inline_edit/views")
 }
 
 // FuncMap generate func map for inline edit
